@@ -1,0 +1,14 @@
+# compiled output
+dist
+node_modules
+
+# env
+.env
+.env.*
+
+# misc
+.DS_Store
+npm-debug.log*
+
+# coverage
+coverage
